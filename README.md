@@ -10,8 +10,6 @@ My contacts:
 
 📧 rkarpov88@gmail.com
 
-📞 +38 073 888 28 09
-
 
 ### My stack
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
